@@ -19,7 +19,7 @@
   <h1>Amsha Uwezo Vitabu</h1>
 
   <div class="book">
-    <img src="images/66.jpg" alt="Amshe Uwezo Wako Halisi">
+    <img src="https://i.postimg.cc/W1Pzgd64/Screenshot-20250623-215839-Chrome.jpg" alt="Amshe Uwezo Wako Halisi">
     <div class="details">
       <h3>1. Amshe Uwezo Wako Halisi</h3>
       <p>Gundua nguvu ya ndani na maarifa ya kuibua vipawa vyako. Hiki ni kitabu kinachokutaka uanze safari ya kujiboresha kifikra na kivitendo.</p>
