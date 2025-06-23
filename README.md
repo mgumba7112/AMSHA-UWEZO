@@ -21,7 +21,7 @@
   <div class="book">
     <img src="https://i.postimg.cc/W1Pzgd64/Screenshot-20250623-215839-Chrome.jpg" alt="Amshe Uwezo Wako Halisi">
     <div class="details">
-      <h3>1. Amshe Uwezo Wako Halisi</h3>
+      <h3>1. Amsha Uwezo Wako Halisi</h3>
       <p>Gundua nguvu ya ndani na maarifa ya kuibua vipawa vyako. Hiki ni kitabu kinachokutaka uanze safari ya kujiboresha kifikra na kivitendo.</p>
       <a class="btn" href="https://vitabu.somavitabu.co.tz/#/view/shop-item/66/" target="_blank">Angalia Kitabu</a>
     </div>
