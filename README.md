@@ -28,7 +28,7 @@
   </div>
 
   <div class="book">
-    <img src="images/67.jpg" alt="Jenga Nidhamu Kali">
+    <img src="https://i.postimg.cc/T3RyByy4/Screenshot-20250623-215902-Chrome.jpg" alt="Jenga Nidhamu Kali">
     <div class="details">
       <h3>2. Jenga Nidhamu Kali</h3>
       <p>Ni mwongozo wa kujijengea tabia thabiti na maamuzi ya kuaminika kila siku. Nidhamu ni msingi wa mafanikio.</p>
@@ -37,7 +37,7 @@
   </div>
 
   <div class="book">
-    <img src="images/70.jpg" alt="Mwongozo wa Kutimiza Malengo Yako">
+    <img src="https://i.postimg.cc/6pjQSMx8/Screenshot-20250623-215917-Chrome.jpg" alt="Mwongozo wa Kutimiza Malengo Yako">
     <div class="details">
       <h3>3. Mwongozo wa Kutimiza Malengo Yako</h3>
       <p>Fahamu mbinu sahihi za kupanga malengo yako, kuyasimamia na kuhakikisha unayatimiza kwa ustadi.</p>
@@ -46,7 +46,7 @@
   </div>
 
   <div class="book">
-    <img src="images/71.jpg" alt="Dondoo 366 za Maisha ya Mafanikio">
+    <img src="https://i.postimg.cc/RFzxbth3/Screenshot-20250623-215934-Chrome.jpg" alt="Dondoo 366 za Maisha ya Mafanikio">
     <div class="details">
       <h3>4. Dondoo 366 za Maisha ya Mafanikio</h3>
       <p>Furahia dondoo moja kila siku kwa mwaka mzima zenye kuhamasisha, kufundisha na kukuza fikra zako kimaendeleo.</p>
@@ -55,7 +55,7 @@
   </div>
 
   <div class="book">
-    <img src="images/74.jpg" alt="Safari kuelekea Uhuru wa Kifedha">
+    <img src="https://i.postimg.cc/zBk6tP4M/Screenshot-20250623-220002-Chrome.jpg" alt="Safari kuelekea Uhuru wa Kifedha">
     <div class="details">
       <h3>5. Safari kuelekea Uhuru wa Kifedha</h3>
       <p>Jifunze mbinu na maarifa ya kujinasua katika utegemezi wa kifedha na kufikia uhuru wa kiuchumi.</p>
@@ -64,7 +64,7 @@
   </div>
 
   <div class="book">
-    <img src="images/80.jpg" alt="Uwezo wa Kuanzisha na Kukuza Biashara">
+    <img src="https://i.postimg.cc/zfrxsFw1/Screenshot-20250623-220020-Chrome.jpg" alt="Uwezo wa Kuanzisha na Kukuza Biashara">
     <div class="details">
       <h3>6. Uwezo wa Kuanzisha na Kukuza Biashara</h3>
       <p>Jipatie mbinu za kuanzisha biashara, kuileta sokoni na kuikuza kwa misingi ya kitaalamu na kimaadili.</p>
@@ -73,7 +73,7 @@
   </div>
 
   <div class="book">
-    <img src="images/85.jpg" alt="Akili ya Fedha">
+    <img src="https://i.postimg.cc/Hs83jhBg/Screenshot-20250623-220034-Chrome.jpg" alt="Akili ya Fedha">
     <div class="details">
       <h3>7. Akili ya Fedha</h3>
       <p>Kitabu kinachokufundisha kufikiri na kutenda kwa misingi ya maarifa ya kifedha; kwa matumizi bora ya fedha zako.</p>
@@ -82,7 +82,7 @@
   </div>
 
   <div class="book">
-    <img src="images/118.jpg" alt="Usiendelee Kupotea">
+    <img src="https://i.postimg.cc/bJFHwxnr/Screenshot-20250623-220048-Chrome.jpg" alt="Usiendelee Kupotea">
     <div class="details">
       <h3>8. Usiendelee Kupotea</h3>
       <p>Ni onyo na mwongozo kwa wale waliopoteza mwelekeo wa maisha, wakihitaji uamsho mpya wa kiroho, kimaadili na kitabia.</p>
@@ -91,7 +91,7 @@
   </div>
 
   <div class="book">
-    <img src="images/86.jpg" alt="Nguvu ya Kusudi">
+    <img src="https://i.postimg.cc/mrLQ3XNh/Screenshot-20250623-220103-Chrome.jpg" alt="Nguvu ya Kusudi">
     <div class="details">
       <h3>9. Nguvu ya Kusudi</h3>
       <p>Kufahamu kusudi la maisha yako ni msingi wa mafanikio. Kitabu hiki kinakuelekeza jinsi ya kugundua na kuishi kusudi lako.</p>
